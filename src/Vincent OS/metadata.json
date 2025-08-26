@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vincent-os@v38armageddon.net",
+                "Name": "v38armageddon"
+            }
+        ],
+        "Description": "Default theme for Vincent OS",
+        "Id": "Vincent OS",
+        "License": "EUPL-1.2",
+        "Name": "Vincent OS",
+        "Website": "https://vincent-os.v38armageddon.net"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "default"
+}

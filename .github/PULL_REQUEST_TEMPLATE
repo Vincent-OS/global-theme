@@ -1,5 +1,5 @@
 ## Description
-Please, describe why this change need to be pulled on [NAME_PROJECT_HERE].
+Please, describe why this change need to be pulled on Vincent OS Global Theme.
 
 ## Utility
 How this change is gonna be useful?
@@ -7,8 +7,8 @@ How this change is gonna be useful?
 ## Tests
 Please check the tests that you have made.
 <!--Mark a X in the brackets to check-->
-- [ ] Test 1
-- [ ] Test 2
+- [ ] Desktop layout **must** be like Vincent OS as [designed](https://vincent-os.v38armageddon.net/img/index/mainDesktop.png).
+- [ ] Changing layout doesn't conflit with other softwares
 
 ## Checklist:
 <!--Mark a X in the brackets to check-->
